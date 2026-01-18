@@ -1046,11 +1046,12 @@ img {
 }
 
 .social-links a {
-    color: #dbe5ff;
+    color: #0046aa;
+    font-weight: 600;
 }
 
 .social-links a:hover {
-    color: #ffffff;
+    color: #e51927;
 }
 
 .footer-column li + li {
